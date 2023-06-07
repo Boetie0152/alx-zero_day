@@ -1,2 +1,2 @@
 My first readme
-another fay another struggle
+another day another struggle
